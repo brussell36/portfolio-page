@@ -54,7 +54,13 @@ ul {
 }
 
 .job-img {
-  display: inline;
+  width: 600px;
+  border-radius: 2%;
+  margin: 5% 0 5% 0;
+}
+
+.hobby-img {
+  float: left;
   width: 600px;
   border-radius: 2%;
 }
@@ -70,6 +76,7 @@ ul {
   margin: 3%;
   display: inline-block;
   text-align: left;
+  padding-left: 90px;
 }
 
 .hobby-list {
