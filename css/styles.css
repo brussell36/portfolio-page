@@ -3,10 +3,14 @@ img {
   margin: 5%;
 }
 
-ul {
-  float: right;
+h2 {
+  padding: 3%;
+  font-size: 3em;
+}
+
+h3 {
   font-size: 2em;
-  margin-top: 10em;
+  margin: 2%;
 }
 
 .container {
@@ -28,3 +32,24 @@ ul {
   font-weight: 600;
 }
 
+.job-img {
+  display: inline;
+  width: 600px;
+}
+
+.job-list {
+  float: left;
+  font-size: 2em;
+  margin-top: 4em;
+}
+
+.hobby-list {
+  float: right;
+  font-size: 2em;
+  margin-top: 10em;
+}
+
+.edu-list {
+  display: inline-block;
+  font-size: 2em;
+}
