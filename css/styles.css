@@ -24,6 +24,10 @@ h3 {
   background-color: #035aa6;
 }
 
+.jumbotron p {
+  font-weight: 600;
+}
+
 .top-container {
   margin: 5% 0 10% 0;
 }
@@ -52,4 +56,9 @@ h3 {
 .edu-list {
   display: inline-block;
   font-size: 2em;
+}
+
+.btn {
+  background-color: #ff9234;
+  margin-bottom: 5%;
 }
