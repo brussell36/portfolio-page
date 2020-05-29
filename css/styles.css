@@ -1,8 +1,30 @@
 img {
   width: 60%;
+  margin: 5%;
+}
+
+ul {
+  float: right;
+  font-size: 2em;
+  margin-top: 10em;
 }
 
 .container {
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+  background-color: #035aa6;
+  color: #ff9234;
 }
+
+.jumbotron {
+  background-color: #035aa6;
+}
+
+.top-container {
+  margin: 5% 0 10% 0;
+}
+
+.skill-container p {
+  font-weight: 600;
+}
+
