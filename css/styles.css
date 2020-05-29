@@ -37,6 +37,8 @@ ul {
 .jumbo-img {
   width: 60%;
   margin: 5%;
+  box-shadow: 10px 10px 10px -5px rgba(0,0,0,1);
+
 }
 
 .col-img {
@@ -54,6 +56,7 @@ ul {
 .job-img {
   display: inline;
   width: 600px;
+  border-radius: 2%;
 }
 
 .job-list {
