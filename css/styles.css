@@ -65,6 +65,13 @@ ul {
   margin-top: 4em;
 }
 
+.skill-list {
+  font-size: 2em;
+  margin: 3%;
+  display: inline-block;
+  text-align: left;
+}
+
 .hobby-list {
   float: right;
   font-size: 2em;
