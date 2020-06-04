@@ -8,7 +8,7 @@
 
 _This is a webpage that showcases my grasp of HTML, CSS, and Bootstrap. Including links to my github repos and a contact me button that links to my email._
 
-*_Here is a link to my page https://brussell36.github.io/portfolio-page/_
+*_Here is a link to my page [Click here](https://brussell36.github.io/portfolio-page/)_
 ## Setup/Installation Requirements
 
 ### Open by downloading
