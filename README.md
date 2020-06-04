@@ -8,11 +8,18 @@
 
 _This is a webpage that showcases my grasp of HTML, CSS, and Bootstrap. Including links to my github repos and a contact me button that links to my email._
 
+*_Here is a link to my page https://brussell36.github.io/portfolio-page/_
 ## Setup/Installation Requirements
 
-* _Pull my repository from https://github.com/brussell36/portfolio-page.git_
-* _Open in your text editor of choice_
-* _Look at my index.html, styles.css, and images_
+### Open by downloading
+1. _Download this repository onto your computer_
+2. _Double click index.html to open it in your web browser_
+
+### Open via Bash/Gitbash
+* _clone this repository onto your computer:
+`git clone https://github.com/brussell36/portfolio-page.git`
+* _Navigate into the portfolio-page directory in VS Code or text editor of choice `code .`_
+* _Open index.html in your preffered browser_
 * _Feel free to edit anything you like and push them to your own repo_
 * _This is all open source_
 
